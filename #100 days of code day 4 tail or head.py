@@ -3,6 +3,6 @@ import random
 
 HeadorTail = random.randint(0,1)
 if HeadorTail == 1:
-    print("Head")
+    print("Heads")
 else:
-    print("Tail")
+    print("Tails")
